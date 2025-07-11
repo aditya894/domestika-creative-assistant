@@ -76,4 +76,4 @@ with tab2:
             st.info("🛠️ Feature coming soon: AI-generated variations of your work.")
 
 st.markdown("---")
-st.caption("Created for Domestika PM Take-Home by [Your Name]")
+st.caption("Created for Domestika PM Take-Home by [Aditya Bikram]")
